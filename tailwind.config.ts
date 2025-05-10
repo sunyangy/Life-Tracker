@@ -12,6 +12,10 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      gridTemplateColumns: {
+        "15": "repeat(15, minmax(0, 1fr))",
+        "20": "repeat(20, minmax(0, 1fr))",
+      },
     },
   },
   plugins: [],
