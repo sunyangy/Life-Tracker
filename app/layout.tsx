@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "Life Tracker",
   description: "Track your life journey",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/icon.ico",
   },
 };
 
